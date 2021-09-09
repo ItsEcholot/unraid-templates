@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/113506-support-alpha-containernursery/</Support>
   <Project>https://github.com/ItsEcholot/ContainerNursery</Project>
   <Overview>Puts Docker Containers to sleep and wakes them back up when they're needed.&#xD;
 &#xD;
